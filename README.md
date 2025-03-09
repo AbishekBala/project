@@ -4,8 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+<<<<<<< HEAD
 In the project directory, you can run:
 hiii
+=======
+sdgezthet
+
+>>>>>>> cfc5a560e7b117c4e2b318735372c245f7528ae7
 ### `npm start`
 
 Runs the app in the development mode.\
